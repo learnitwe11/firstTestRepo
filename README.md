@@ -1,3 +1,3 @@
 # firstTestRepo
 Getting familiar with Git
-By using GitHub's free service hopefully I can get to know how to use Git as a professional developer.
+# By using GitHub's free service hopefully I can get to know how to use Git as a professional developer.
